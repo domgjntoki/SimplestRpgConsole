@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LOpx8c23Iyj2iF9bCbKwnK+SjGzVkQlZY61ZEptPJQPvF3FrrpzZHhxFzI8H8+kZAPCERMHvn4c+JBAciz+LhA==",
+  "success": true,
+  "projectFilePath": "/home/domgintoki/RiderProjects/RpgConsole/RpgConsole/RpgConsole.csproj",
+  "expectedPackageFiles": [
+    "/home/domgintoki/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

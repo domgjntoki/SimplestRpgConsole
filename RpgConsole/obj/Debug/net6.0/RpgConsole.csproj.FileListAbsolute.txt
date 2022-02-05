@@ -1,0 +1,15 @@
+/home/domgintoki/RiderProjects/RpgConsole/RpgConsole/bin/Debug/net6.0/RpgConsole
+/home/domgintoki/RiderProjects/RpgConsole/RpgConsole/bin/Debug/net6.0/RpgConsole.deps.json
+/home/domgintoki/RiderProjects/RpgConsole/RpgConsole/bin/Debug/net6.0/RpgConsole.runtimeconfig.json
+/home/domgintoki/RiderProjects/RpgConsole/RpgConsole/bin/Debug/net6.0/RpgConsole.dll
+/home/domgintoki/RiderProjects/RpgConsole/RpgConsole/bin/Debug/net6.0/ref/RpgConsole.dll
+/home/domgintoki/RiderProjects/RpgConsole/RpgConsole/bin/Debug/net6.0/RpgConsole.pdb
+/home/domgintoki/RiderProjects/RpgConsole/RpgConsole/obj/Debug/net6.0/RpgConsole.csproj.AssemblyReference.cache
+/home/domgintoki/RiderProjects/RpgConsole/RpgConsole/obj/Debug/net6.0/RpgConsole.GeneratedMSBuildEditorConfig.editorconfig
+/home/domgintoki/RiderProjects/RpgConsole/RpgConsole/obj/Debug/net6.0/RpgConsole.AssemblyInfoInputs.cache
+/home/domgintoki/RiderProjects/RpgConsole/RpgConsole/obj/Debug/net6.0/RpgConsole.AssemblyInfo.cs
+/home/domgintoki/RiderProjects/RpgConsole/RpgConsole/obj/Debug/net6.0/RpgConsole.csproj.CoreCompileInputs.cache
+/home/domgintoki/RiderProjects/RpgConsole/RpgConsole/obj/Debug/net6.0/RpgConsole.dll
+/home/domgintoki/RiderProjects/RpgConsole/RpgConsole/obj/Debug/net6.0/ref/RpgConsole.dll
+/home/domgintoki/RiderProjects/RpgConsole/RpgConsole/obj/Debug/net6.0/RpgConsole.pdb
+/home/domgintoki/RiderProjects/RpgConsole/RpgConsole/obj/Debug/net6.0/RpgConsole.genruntimeconfig.cache
